@@ -1,9 +1,16 @@
-package homework6;
+package homework6.bottleexercise;
+
+import homework6.personexercise.Person;
 
 public class Bottle {
     private int availableLiquid;
     private int totalCapacity;
     private boolean open;
+
+    public void otherMethod(){
+        Person person = new Person("Alex");
+        person.publicField = true;
+    }
 
 
     public boolean hasMoreLiquid(){

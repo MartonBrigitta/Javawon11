@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26eedeec-57be-438e-8b21-85c85485e76f" name="Changes" comment="" />
+    <list default="true" id="26eedeec-57be-438e-8b21-85c85485e76f" name="Changes" comment="tema curs 6">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course7/staticpackage/AirPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course7/staticpackage/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/FoodProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/KFC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/McDonalds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Rebel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Romanian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/RomanianOmwWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework6/personexercise/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/bottleexercise/Bottle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,7 +46,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,6 +59,29 @@
       <option name="presentableId" value="Default" />
       <updated>1680255465059</updated>
     </task>
+    <task id="LOCAL-00001" summary="tema curs 6">
+      <created>1680270813153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680270813153</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tema curs 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="tema curs 6" />
   </component>
 </project>
