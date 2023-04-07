@@ -1,0 +1,64 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"26eedeec-57be-438e-8b21-85c85485e76f\" name=\"Changes\" comment=\"tema curs 6\">\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Course7/staticpackage/AirPlane.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Course7/staticpackage/Main.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Interfaces/Company.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Interfaces/FoodProvider.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Interfaces/KFC.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Interfaces/Main.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Interfaces/McDonalds.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Interfaces2/Citizen.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Interfaces2/Employee.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Interfaces2/Main.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Interfaces2/Person.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Interfaces2/Rebel.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Interfaces2/Romanian.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Interfaces2/RomanianOmwWorker.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/homework6/personexercise/Person.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/homework6/Bottle.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/homework6/bottleexercise/Bottle.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2Nm3WMqfy0BYwk7JBmmiDRnYObe\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\"\n  }\n}]]></component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"26eedeec-57be-438e-8b21-85c85485e76f\" name=\"Changes\" comment=\"\" />\n      <created>1680255465059</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1680255465059</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"tema curs 6\">\n      <created>1680270813153</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1680270813153</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"tema curs 6\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"tema curs 6\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 60578c069ac3f341db66efbd55e9ec704a839006)
++++ b/.idea/workspace.xml	(date 1680532843827)
+@@ -1,26 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="26eedeec-57be-438e-8b21-85c85485e76f" name="Changes" comment="tema curs 6">
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Course7/staticpackage/AirPlane.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Course7/staticpackage/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Company.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Interfaces/FoodProvider.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Interfaces/KFC.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Interfaces/McDonalds.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Citizen.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Employee.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Person.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Rebel.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Romanian.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Interfaces2/RomanianOmwWorker.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/homework6/personexercise/Person.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/homework6/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/bottleexercise/Bottle.java" afterDir="false" />
+-    </list>
++    <list default="true" id="26eedeec-57be-438e-8b21-85c85485e76f" name="Changes" comment="curs 7" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -66,7 +47,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1680270813153</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="curs 7">
++      <created>1680531621577</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1680531621578</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -82,6 +70,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="tema curs 6" />
+-    <option name="LAST_COMMIT_MESSAGE" value="tema curs 6" />
++    <MESSAGE value="curs 7" />
++    <option name="LAST_COMMIT_MESSAGE" value="curs 7" />
+   </component>
+ </project>
+\ No newline at end of file

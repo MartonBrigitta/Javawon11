@@ -1,0 +1,127 @@
+Index: src/org/fasttrack/excourse6/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/org/fasttrack/excourse6/Main.java b/src/org/fasttrack/excourse6/Main.java
+new file mode 100644
+--- /dev/null	(date 1680263664506)
++++ b/src/org/fasttrack/excourse6/Main.java	(date 1680263664506)
+@@ -0,0 +1,58 @@
++package org.fasttrack.excourse6;
++
++import java.util.Random;
++
++public class Main {
++    public static void main(String[] args) {
++        System.out.println("This is an experiment");
++        System.out.println("Hello world");
++        Lamp lamp1 = new Lamp();
++        Lamp lamp2 = new Lamp();
++
++        lamp1.turnOn();
++        lamp2.turnOn();
++
++        Lamp customLamp = new Lamp ("green", 10);
++        customLamp.turnOn();
++        customLamp.increaseIntensity();
++        customLamp.turnOff();
++        customLamp.turnOn();
++
++        Random random = new Random();
++        random.nextInt();
++    }
++}
++
++class Lamp {
++    private boolean lightState;
++    private String color = "red";
++
++    private int intensity;
++
++    Lamp(){
++        System.out.println("Starting construction of lamp");
++        lightState = false;
++        intensity =5;
++    }
++
++    Lamp(String color, int intensity){
++        System.out.println("Starting construction of lamp with color " + color + " and intensity " + intensity);
++        this.color = color;
++        this.intensity = intensity;
++
++    }
++
++    public void turnOn(){
++        System.out.println("Turning on with color "+ color+ " with intensity "+intensity);
++        lightState = true;
++    }
++
++    public void turnOff(){
++        System.out.println("Turning off");
++        lightState = false;
++    }
++
++    public void increaseIntensity(){
++        this.intensity++;
++    }
++}
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"26eedeec-57be-438e-8b21-85c85485e76f\" name=\"Changes\" comment=\"first commit\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2Nm3WMqfy0BYwk7JBmmiDRnYObe\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"26eedeec-57be-438e-8b21-85c85485e76f\" name=\"Changes\" comment=\"\" />\n      <created>1680255465059</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1680255465059</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"first commit\">\n      <created>1680255655667</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1680255655667</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"first commit\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"first commit\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3a398c35ee0eabf2b5cec10fd4c22520039b67a5)
++++ b/.idea/workspace.xml	(date 1680257405712)
+@@ -1,11 +1,21 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="26eedeec-57be-438e-8b21-85c85485e76f" name="Changes" comment="first commit" />
++    <list default="true" id="26eedeec-57be-438e-8b21-85c85485e76f" name="Changes" comment="curs 6 homework">
++      <change afterPath="$PROJECT_DIR$/src/org/fasttrack/excourse6/Main.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++      </list>
++    </option>
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+@@ -46,7 +56,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1680255655667</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="curs 6 homework">
++      <created>1680256119597</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1680256119597</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -62,6 +79,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="first commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
++    <MESSAGE value="curs 6 homework" />
++    <option name="LAST_COMMIT_MESSAGE" value="curs 6 homework" />
+   </component>
+ </project>
+\ No newline at end of file
