@@ -1,0 +1,65 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"26eedeec-57be-438e-8b21-85c85485e76f\" name=\"Changes\" comment=\"curs 7\">\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/Animal.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/Cat.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/Dog.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/Main.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/WalkingCat.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/AdProvider.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/Email.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/Facebook.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/Main.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/Print.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/animal/Animal.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/animal/Cat.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/animal/Dog.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/animal/Main.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/inheritance/Bike.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/inheritance/CityBike.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/inheritance/Main.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/inheritance/MountainBike.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/student/Main.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/org/fasttrackit/homework7/student/Student.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"mybadsorry\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"RESET_MODE\" value=\"HARD\" />\n  </component>\n  <component name=\"HighlightingSettingsPerFile\">\n    <setting file=\"file://$PROJECT_DIR$/src/Main.java\" root0=\"FORCE_HIGHLIGHTING\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2Nm3WMqfy0BYwk7JBmmiDRnYObe\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\"\n  }\n}]]></component>\n  <component name=\"RunManager\" selected=\"Application.org.fasttrackit.homework7.inheritance.Main\">\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.fasttrackit.homework7.animal.Main\" />\n      <module name=\"Javawon11\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"org.fasttrackit.homework7.animal.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"org.fasttrackit.homework7.inheritance.Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.fasttrackit.homework7.inheritance.Main\" />\n      <module name=\"Javawon11\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"org.fasttrackit.homework7.inheritance.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.org.fasttrackit.homework7.inheritance.Main\" />\n        <item itemvalue=\"Application.Main\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"26eedeec-57be-438e-8b21-85c85485e76f\" name=\"Changes\" comment=\"\" />\n      <created>1680255465059</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1680255465059</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c7f5ac2fcd111b51c5af5ad20da0381a0654539b)
++++ b/.idea/workspace.xml	(date 1680855679442)
+@@ -1,28 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="26eedeec-57be-438e-8b21-85c85485e76f" name="Changes" comment="curs 7">
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/Animal.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/Cat.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/Dog.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/abstractClass/WalkingCat.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/AdProvider.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/Email.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/Facebook.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/adProvider/Print.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/animal/Animal.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/animal/Cat.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/animal/Dog.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/animal/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/inheritance/Bike.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/inheritance/CityBike.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/inheritance/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/inheritance/MountainBike.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/student/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/student/Student.java" afterDir="false" />
++    <list default="true" id="26eedeec-57be-438e-8b21-85c85485e76f" name="Changes" comment="curs 8">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -106,6 +85,14 @@
+       <option name="presentableId" value="Default" />
+       <updated>1680255465059</updated>
+     </task>
++    <task id="LOCAL-00001" summary="curs 8">
++      <created>1680853201759</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1680853201760</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -119,4 +106,8 @@
+       </map>
+     </option>
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="curs 8" />
++    <option name="LAST_COMMIT_MESSAGE" value="curs 8" />
++  </component>
+ </project>
+\ No newline at end of file
